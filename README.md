@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hardy Fernandes 👋</h1>
+<h1 align="center">Hi, I'm Hardy Fernandes</h1>
 
 <p align="center">
   Backend Java Developer | Spring Boot | REST APIs | Clean Architecture
