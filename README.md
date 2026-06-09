@@ -85,3 +85,46 @@ Full backend e-commerce system.
 ## 🏗️ Architecture Style
 
 All projects follow a **modular monolith architecture** with feature-based packages:
+
+
+✔ Clean Architecture principles  
+✔ Separation of concerns  
+✔ Scalable backend structure  
+✔ Real-world business rules  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER"/>
+</p>
+
+---
+
+## 🧠 What I Build
+
+- Scalable backend systems  
+- REST APIs with real business logic  
+- Secure authentication systems (JWT + RBAC)  
+- Modular and maintainable architectures  
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:seuemail@email.com">Email</a> •
+  <a href="https://linkedin.com/in/seu-perfil">LinkedIn</a> •
+  <a href="https://github.com/SEU_USER">GitHub</a>
+</p>
+
+---
+
+## 🎯 Goal
+
+Building production-level backend systems to become a strong junior backend developer ready for real-world software engineering roles.
