@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm SEU_NOME 👋</h1>
+<h1 align="center">Hi, I'm Hardy Fernandes 👋</h1>
 
 <p align="center">
   Backend Java Developer | Spring Boot | REST APIs | Clean Architecture
 </p>
 
 <p align="center">
-  Building production-like backend systems, not just CRUD applications.
+  Building production-like backend systems.
 </p>
 
 ---
@@ -84,7 +84,7 @@ Full backend e-commerce system.
 
 ## 🏗️ Architecture Style
 
-All projects follow a **modular monolith architecture** with feature-based packages:
+All projects follow a **modular monolith architecture** with feature-based packages.
 
 
 ✔ Clean Architecture principles  
@@ -118,9 +118,9 @@ All projects follow a **modular monolith architecture** with feature-based packa
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">Email</a> •
-  <a href="https://linkedin.com/in/seu-perfil">LinkedIn</a> •
-  <a href="https://github.com/SEU_USER">GitHub</a>
+  <a href="mailto:hardymtf@email.com">Email</a> •
+  <a href="https://www.linkedin.com/in/hardy-fernandes28/">LinkedIn</a> •
+  <a href="https://github.com/hardyrany">GitHub</a>
 </p>
 
 ---
