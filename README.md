@@ -25,7 +25,7 @@
 ## 🧠 About Me
 
 - 🔭 Focused on backend development with Java + Spring Boot  
-- 🏗️ Building real-world systems (TaskFlow, ProjectHub, RH System, E-commerce API)  
+- 🏗️ Building real-world systems (NovaBank)  
 - 🌱 Studying system design, architecture and scalability  
 - 🎯 Goal: Junior Backend Developer (remote / international)
 
@@ -33,52 +33,19 @@
 
 ## 🚀 Featured Projects
 
-### 🟢 TaskFlow
-Task management system inspired by Jira/Trello.
+### 🏦 NovaBank
+Banking backend system focused on core banking operations.
 
-- JWT authentication  
-- Role-based access control  
-- Project & task management  
-- Modular monolith architecture  
+* JWT authentication
+* Role-based access control
+* Customer & account management
+* Deposits, withdrawals & transfers
+* Transaction management
+* Loan management
+* Modular monolith architecture
 
-👉 https://github.com/SEU_USER/taskflow-api  
+👉 https://github.com/hardyrany/novabank-api.git
 
----
-
-### 🔵 ProjectHub
-Collaborative project management system with teams and roles.
-
-- Project membership system  
-- Task assignment & tracking  
-- Notifications system  
-- Task history (audit trail)  
-
-👉 https://github.com/SEU_USER/projecthub-api  
-
----
-
-### 🟣 RH System
-Human Resources backend system simulating company workflows.
-
-- Employee management  
-- Department hierarchy  
-- Attendance tracking  
-- Payroll system  
-- Role-based access control  
-
-👉 https://github.com/SEU_USER/rh-system-api  
-
----
-
-### 🟠 E-commerce API
-Full backend e-commerce system.
-
-- Product catalog  
-- Cart & orders  
-- Inventory management  
-- Dockerized environment  
-
-👉 https://github.com/SEU_USER/ecommerce-api  
 
 ---
 
