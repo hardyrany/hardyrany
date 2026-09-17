@@ -84,8 +84,6 @@ All projects follow **feature-based, vertical-slice organization** — NovaBank 
   <a href="https://github.com/hardyrany">GitHub</a>
 </p>
 
----
-
-## 🎯 Goal
-
-Building production-level backend systems to become a strong junior backend developer ready for real-world software engineering roles.
+<p align="center">
+  Building real-world backend systems with production-style discipline — on my way to a junior backend developer role (remote / international).
+</p>
