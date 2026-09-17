@@ -58,13 +58,12 @@ A modular-monolith banking backend built in Java 21 / Spring Boot, focused on co
 
 ## 🏗️ Architecture Style
 
-All projects follow a **modular monolith architecture** with feature-based packages.
-
+All projects follow **feature-based, vertical-slice organization** — NovaBank as a modular monolith (Spring Boot), and the pure-Java projects (BankSystem, filesystemmanager) with the same layered discipline outside a framework.
 
 ✔ Clean Architecture principles  
 ✔ Separation of concerns  
 ✔ Scalable backend structure  
-✔ Real-world business rules  
+✔ Real-world business rules
 
 ---
 
