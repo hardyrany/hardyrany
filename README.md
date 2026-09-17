@@ -28,10 +28,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Focused on backend development with Java + Spring Boot  
-- 🏗️ Building real-world systems (NovaBank)  
-- 🌱 Studying system design, architecture and scalability  
-- 🎯 Goal: Junior Backend Developer (remote / international)
+- 🏦 Building **NovaBank** — a modular-monolith banking backend (Java 21, Spring Boot, JWT + RBAC, CI/CD)
+- 🧩 Practicing disciplined engineering: vertical-slice scoping, atomic commits, layered testing
+- 🌱 Studying system design, architecture and scalability
+- 🎯 Goal: Junior Backend Developer role (remote / international)
 
 ---
 
