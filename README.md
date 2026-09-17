@@ -70,11 +70,11 @@ All projects follow **feature-based, vertical-slice organization** — NovaBank 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hardyrany&show_icons=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardyrany"/>
 </p>
 
 ---
