@@ -35,21 +35,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🏦 NovaBank
-Banking backend system focused on core banking operations.
+A modular-monolith banking backend built in Java 21 / Spring Boot, focused on core banking operations.
 
-* JWT authentication
-* Role-based access control
+**Implemented**
+* JWT authentication with role-based access control (ADMIN / SUPPORT / USER)
 * Customer & account management
-* Deposits, withdrawals & transfers
-* Transaction management
+* Deposits, withdrawals & transfers (atomic, fully audit-traceable)
+* Transaction history & ledger
+* CI/CD pipeline — build, code quality, and security scanning
+
+**Planned**
+* Spending limits
 * Loan management
-* Modular monolith architecture
+* Notifications & account statements
 
-👉 https://github.com/hardyrany/novabank-api.git
-
+👉 [github.com/hardyrany/novabank-api](https://github.com/hardyrany/novabank-api)
 
 ---
 
