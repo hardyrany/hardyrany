@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building production-like backend systems.
+  Building NovaBank — a production-style banking backend with JWT auth, RBAC, and CI/CD.
 </p>
 
 ---
