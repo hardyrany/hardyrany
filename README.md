@@ -69,10 +69,10 @@ All projects follow **feature-based, vertical-slice organization** — NovaBank 
 
 ## 🧠 What I Build
 
-- Scalable backend systems  
 - REST APIs with real business logic  
 - Secure authentication systems (JWT + RBAC)  
-- Modular and maintainable architectures  
+- Backend systems designed with scalability in mind  
+- Modular, maintainable architectures
 
 ---
 
